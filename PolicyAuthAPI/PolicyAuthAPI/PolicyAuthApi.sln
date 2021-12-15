@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Policy.Auth.API", "Policy.Auth.API.csproj", "{F5C04121-E5E4-42C5-B1B8-40E30C9F2248}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Policy.Auth.API.Tests", "..\Policy.Auth.API.Tests\Policy.Auth.API.Tests.csproj", "{85278FE6-5470-42FF-B79B-78DD62988EAF}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
