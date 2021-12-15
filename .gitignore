@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/PolicyAuthAPI/PolicyAuthAPI/.vs
+/PolicyAuthAPI/PolicyAuthAPI/bin/Debug/net5.0/bin
+/PolicyAuthAPI/PolicyAuthAPI/bin/Debug/net5.0
+/PolicyAuthAPI/PolicyAuthAPI/obj
+/PolicyAuthAPI/PolicyAuthAPI/packages
