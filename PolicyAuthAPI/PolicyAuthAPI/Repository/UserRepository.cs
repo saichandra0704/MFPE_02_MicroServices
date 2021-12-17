@@ -14,9 +14,11 @@ namespace Policy.Auth.API.Repository
         {
             user = new List<UserDetails>()
             {
-                new UserDetails{Username="Admin1", Password="Admin1@123"},
-                new UserDetails{Username="Admin2", Password="Admin2@123"},
-                new UserDetails{Username="Admin3", Password="Admin3@123"}
+                new UserDetails{Username="Sai", Password="sai123"},
+                new UserDetails{Username="Hema", Password="hema123"},
+                new UserDetails{Username="Aslam", Password="aslam123"},
+                new UserDetails{Username="Poornima", Password="poornima123"},
+                new UserDetails{Username="Shivani", Password="shivani123"}
             };
         }
 
