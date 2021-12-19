@@ -44,7 +44,6 @@ namespace Policy.Auth.API
                                           .AllowAnyMethod();
                                   });
             });
-
             services.AddControllers();
 
             services.AddTransient<IUserRepository , UserRepository>();
@@ -92,6 +91,7 @@ namespace Policy.Auth.API
 
             app.UseRouting();
             app.UseCors(MyAllowSpecificOrigins);
+
             app.UseAuthorization();
             app.UseAuthorization();
 

@@ -26,8 +26,8 @@ namespace Policy.Auth.API.Provider
         {
             try
             {
-                _log4net.Info(user.Username);
                 UserDetails _user = userRepository.GetUserDetails(user);
+                _log4net.Info(user.Username);
                 if (_user == null)
                 {
                     return null;
