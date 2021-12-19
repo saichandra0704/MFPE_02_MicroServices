@@ -1,0 +1,13 @@
+ERROR 12/19/2021 07:10:20 PM => Cannot open database "PolicyAdmin_Consumer" requested by the login. The login failed.
+Login failed for user 'ASUS-ZEPHYRUS-M\saich'.
+ERROR 12/19/2021 07:10:20 PM => Cannot open database "PolicyAdmin_Consumer" requested by the login. The login failed.
+Login failed for user 'ASUS-ZEPHYRUS-M\saich'.
+ERROR 12/19/2021 07:11:14 PM => Exception in Data Seeding: The instance of entity type 'Property' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+ERROR 12/19/2021 08:23:48 PM => Cannot open database "PolicyAdmin_Consumer" requested by the login. The login failed.
+Login failed for user 'ASUS-ZEPHYRUS-M\saich'.
+ERROR 12/19/2021 08:23:48 PM => Cannot open database "PolicyAdmin_Consumer" requested by the login. The login failed.
+Login failed for user 'ASUS-ZEPHYRUS-M\saich'.
+ERROR 12/19/2021 08:25:04 PM => Cannot open database "PolicyAdmin_Consumer" requested by the login. The login failed.
+Login failed for user 'ASUS-ZEPHYRUS-M\saich'.
+ERROR 12/19/2021 08:25:04 PM => Cannot open database "PolicyAdmin_Consumer" requested by the login. The login failed.
+Login failed for user 'ASUS-ZEPHYRUS-M\saich'.

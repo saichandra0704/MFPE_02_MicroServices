@@ -1,0 +1,56 @@
+INFO  12/18/2021 11:17:13 AM => Initializing Program
+INFO  12/18/2021 11:17:13 AM => Initialized In-Memory DB
+INFO  12/18/2021 11:17:14 AM => Data Seding for In-Memory DB Started
+INFO  12/18/2021 11:40:47 AM => Initializing Program
+INFO  12/18/2021 11:40:47 AM => Initialized In-Memory DB
+INFO  12/18/2021 11:40:48 AM => Data Seding for In-Memory DB Started
+INFO  12/18/2021 12:56:16 PM => Initializing Program
+INFO  12/18/2021 12:56:16 PM => Initialized In-Memory DB
+INFO  12/18/2021 12:56:17 PM => Data Seding for In-Memory DB Started
+INFO  12/18/2021 01:05:31 PM => Initializing Program
+INFO  12/18/2021 01:05:31 PM => Initialized In-Memory DB
+INFO  12/18/2021 01:05:31 PM => Data Seding for In-Memory DB Started
+INFO  12/18/2021 01:09:53 PM => Initializing Program
+INFO  12/18/2021 01:09:53 PM => Initialized In-Memory DB
+INFO  12/18/2021 01:09:53 PM => Data Seding for In-Memory DB Started
+INFO  12/18/2021 01:12:44 PM => Initializing Program
+INFO  12/18/2021 01:12:44 PM => Initialized In-Memory DB
+INFO  12/18/2021 01:12:45 PM => Data Seding for In-Memory DB Started
+INFO  12/18/2021 01:17:03 PM => Initializing Program
+INFO  12/18/2021 01:17:03 PM => Initialized In-Memory DB
+INFO  12/18/2021 01:17:04 PM => Data Seding for In-Memory DB Started
+INFO  12/18/2021 01:18:45 PM => Initializing Program
+INFO  12/18/2021 01:18:45 PM => Initialized In-Memory DB
+INFO  12/18/2021 01:18:45 PM => Data Seding for In-Memory DB Started
+INFO  12/18/2021 01:23:51 PM => Initializing Program
+INFO  12/18/2021 01:23:51 PM => Initialized In-Memory DB
+INFO  12/18/2021 01:23:52 PM => Data Seding for In-Memory DB Started
+INFO  12/19/2021 07:06:44 PM => Initializing Program
+INFO  12/19/2021 07:06:44 PM => Initialized SQL DB
+ERROR 12/19/2021 07:10:20 PM => Cannot open database "PolicyAdmin_Consumer" requested by the login. The login failed.
+Login failed for user 'ASUS-ZEPHYRUS-M\saich'.
+ERROR 12/19/2021 07:10:20 PM => Cannot open database "PolicyAdmin_Consumer" requested by the login. The login failed.
+Login failed for user 'ASUS-ZEPHYRUS-M\saich'.
+INFO  12/19/2021 07:11:13 PM => Initializing Program
+INFO  12/19/2021 07:11:13 PM => Initialized In-Memory DB
+INFO  12/19/2021 07:11:14 PM => Data Seding for In-Memory DB Started
+ERROR 12/19/2021 07:11:14 PM => Exception in Data Seeding: The instance of entity type 'Property' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+INFO  12/19/2021 07:38:17 PM => Initializing Program
+INFO  12/19/2021 07:38:17 PM => Initialized In-Memory DB
+INFO  12/19/2021 07:38:17 PM => Data Seding for In-Memory DB Started
+INFO  12/19/2021 07:50:13 PM => Initializing Program
+INFO  12/19/2021 07:50:13 PM => Initialized In-Memory DB
+INFO  12/19/2021 07:50:14 PM => Data Seding for In-Memory DB Started
+INFO  12/19/2021 08:22:47 PM => Initializing Program
+INFO  12/19/2021 08:22:48 PM => Initialized SQL DB
+ERROR 12/19/2021 08:23:48 PM => Cannot open database "PolicyAdmin_Consumer" requested by the login. The login failed.
+Login failed for user 'ASUS-ZEPHYRUS-M\saich'.
+ERROR 12/19/2021 08:23:48 PM => Cannot open database "PolicyAdmin_Consumer" requested by the login. The login failed.
+Login failed for user 'ASUS-ZEPHYRUS-M\saich'.
+ERROR 12/19/2021 08:25:04 PM => Cannot open database "PolicyAdmin_Consumer" requested by the login. The login failed.
+Login failed for user 'ASUS-ZEPHYRUS-M\saich'.
+ERROR 12/19/2021 08:25:04 PM => Cannot open database "PolicyAdmin_Consumer" requested by the login. The login failed.
+Login failed for user 'ASUS-ZEPHYRUS-M\saich'.
+INFO  12/19/2021 08:27:43 PM => Initializing Program
+INFO  12/19/2021 08:27:43 PM => Initialized In-Memory DB
+INFO  12/19/2021 08:27:44 PM => Data Seding for In-Memory DB Started
