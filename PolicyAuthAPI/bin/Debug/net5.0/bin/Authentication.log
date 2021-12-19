@@ -1,0 +1,869 @@
+INFO  10:29:40 Application started. Press Ctrl+C to shut down.
+INFO  10:29:40 Application started. Press Ctrl+C to shut down.
+INFO  10:29:40 Hosting environment: Development
+INFO  10:29:40 Hosting environment: Development
+INFO  10:29:40 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  10:29:40 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  10:32:30 Authentication initiated for Admin1
+INFO  10:32:30 Token Generation initiated
+ERROR 10:32:30 Exception occured while authenticating user/generating token as String reference not set to an instance of a String. (Parameter 's')
+ERROR 10:32:30 Login failed for Admin1
+INFO  10:37:58 Application started. Press Ctrl+C to shut down.
+INFO  10:37:58 Application started. Press Ctrl+C to shut down.
+INFO  10:37:58 Hosting environment: Development
+INFO  10:37:58 Hosting environment: Development
+INFO  10:37:58 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  10:37:58 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  10:38:16 Authentication initiated for Admin1
+INFO  10:38:16 Token Generation initiated
+ERROR 10:38:16 Exception occured while authenticating user/generating token as String reference not set to an instance of a String. (Parameter 's')
+ERROR 10:38:16 Login failed for Admin1
+INFO  10:39:58 Application started. Press Ctrl+C to shut down.
+INFO  10:39:58 Application started. Press Ctrl+C to shut down.
+INFO  10:39:58 Hosting environment: Development
+INFO  10:39:58 Hosting environment: Development
+INFO  10:39:58 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  10:39:58 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  10:40:38 Authentication initiated for Admin1
+INFO  10:40:38 Token Generation initiated
+ERROR 10:40:38 Exception occured while authenticating user/generating token as String reference not set to an instance of a String. (Parameter 's')
+INFO  10:41:21 Application started. Press Ctrl+C to shut down.
+INFO  10:41:21 Application started. Press Ctrl+C to shut down.
+INFO  10:41:21 Hosting environment: Development
+INFO  10:41:21 Hosting environment: Development
+INFO  10:41:21 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  10:41:21 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  10:41:42 Authentication initiated for Admin1
+INFO  10:51:53 Application started. Press Ctrl+C to shut down.
+INFO  10:51:53 Application started. Press Ctrl+C to shut down.
+INFO  10:51:53 Hosting environment: Development
+INFO  10:51:53 Hosting environment: Development
+INFO  10:51:53 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  10:51:53 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  10:52:49 Authentication initiated for Admin1
+INFO  10:54:51 Token Generation initiated
+ERROR 10:54:53 Exception occured while authenticating user/generating token as String reference not set to an instance of a String. (Parameter 's')
+INFO  10:55:16 Application started. Press Ctrl+C to shut down.
+INFO  10:55:16 Application started. Press Ctrl+C to shut down.
+INFO  10:55:16 Hosting environment: Development
+INFO  10:55:16 Hosting environment: Development
+INFO  10:55:16 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  10:55:16 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  10:55:41 Authentication initiated for Admin1
+INFO  10:56:41 Application started. Press Ctrl+C to shut down.
+INFO  10:56:41 Application started. Press Ctrl+C to shut down.
+INFO  10:56:41 Hosting environment: Development
+INFO  10:56:41 Hosting environment: Development
+INFO  10:56:41 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  10:56:41 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  10:56:49 Authentication initiated for Admin1
+INFO  10:56:49 Token Generation initiated
+ERROR 10:56:49 Exception occured while authenticating user/generating token as String reference not set to an instance of a String. (Parameter 's')
+ERROR 10:56:49 Login failed for Admin1
+INFO  10:58:16 Application started. Press Ctrl+C to shut down.
+INFO  10:58:16 Application started. Press Ctrl+C to shut down.
+INFO  10:58:16 Hosting environment: Development
+INFO  10:58:16 Hosting environment: Development
+INFO  10:58:16 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  10:58:16 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  10:58:23 Authentication initiated for Admin1
+INFO  10:58:23 Admin1
+INFO  10:58:23 Token Generation initiated
+ERROR 10:58:23 Exception occured while authenticating user/generating token as String reference not set to an instance of a String. (Parameter 's')
+ERROR 10:58:23 Login failed for Admin1
+INFO  11:01:11 Application started. Press Ctrl+C to shut down.
+INFO  11:01:11 Application started. Press Ctrl+C to shut down.
+INFO  11:01:11 Hosting environment: Development
+INFO  11:01:11 Hosting environment: Development
+INFO  11:01:11 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  11:01:11 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  11:01:36 Authentication initiated for Admin1
+INFO  11:01:36 Admin1
+INFO  11:01:36 Token Generation initiated
+INFO  11:02:42 Application started. Press Ctrl+C to shut down.
+INFO  11:02:42 Application started. Press Ctrl+C to shut down.
+INFO  11:02:42 Hosting environment: Development
+INFO  11:02:42 Hosting environment: Development
+INFO  11:02:42 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  11:02:42 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  11:03:38 Application started. Press Ctrl+C to shut down.
+INFO  11:03:38 Application started. Press Ctrl+C to shut down.
+INFO  11:03:38 Hosting environment: Development
+INFO  11:03:38 Hosting environment: Development
+INFO  11:03:38 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  11:03:38 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  11:04:22 Authentication initiated for Admin1
+INFO  11:04:22 Admin1
+INFO  11:04:22 Token Generation initiated
+INFO  12:13:31 Application started. Press Ctrl+C to shut down.
+INFO  12:13:31 Application started. Press Ctrl+C to shut down.
+INFO  12:13:31 Hosting environment: Development
+INFO  12:13:31 Hosting environment: Development
+INFO  12:13:31 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  12:13:31 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  12:14:12 Authentication initiated for Admin1
+INFO  12:14:12 Admin1
+INFO  12:14:14 Token Generation initiated
+INFO  12:17:11 Authentication initiated for Admin1
+INFO  12:17:11 Admin1
+INFO  12:17:11 Token Generation initiated
+INFO  12:43:43 Application started. Press Ctrl+C to shut down.
+INFO  12:43:43 Application started. Press Ctrl+C to shut down.
+INFO  12:43:43 Hosting environment: Development
+INFO  12:43:43 Hosting environment: Development
+INFO  12:43:43 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  12:43:43 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  12:16:22 Application started. Press Ctrl+C to shut down.
+INFO  12:16:22 Application started. Press Ctrl+C to shut down.
+INFO  12:16:22 Hosting environment: Development
+INFO  12:16:22 Hosting environment: Development
+INFO  12:16:22 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  12:16:22 Content root path: E:\MFPE_Project\MFPE_AuthorisationMicroservice
+INFO  12:17:58 Authentication initiated for Admin1
+INFO  12:17:58 Admin1
+INFO  12:17:58 Token Generation initiated
+INFO  12:22:10 Authentication initiated for Admin1
+INFO  12:22:10 Admin1
+INFO  12:22:10 Token Generation initiated
+INFO  12:24:37 Authentication initiated for Admin1
+INFO  12:24:37 Admin1
+INFO  12:24:37 Token Generation initiated
+INFO  12:26:43 Authentication initiated for Admin1
+INFO  12:26:43 Admin1
+INFO  12:26:43 Token Generation initiated
+INFO  12:27:39 Authentication initiated for Admin1
+INFO  12:27:39 Admin1
+INFO  12:27:39 Token Generation initiated
+INFO  12:28:28 Authentication initiated for Admin1
+INFO  12:28:28 Admin1
+INFO  12:28:28 Token Generation initiated
+INFO  01:42:45 Application started. Press Ctrl+C to shut down.
+INFO  01:42:45 Application started. Press Ctrl+C to shut down.
+INFO  01:42:45 Hosting environment: Development
+INFO  01:42:45 Hosting environment: Development
+INFO  01:42:45 Content root path: E:\MFPE_Project\PolicyAuthAPI
+INFO  01:42:45 Content root path: E:\MFPE_Project\PolicyAuthAPI
+INFO  02:15:51 Authentication initiated for Admin1
+INFO  02:15:51 Admin1
+INFO  02:15:51 Token Generation initiated
+INFO  07:01:25 Application started. Press Ctrl+C to shut down.
+INFO  07:01:25 Application started. Press Ctrl+C to shut down.
+INFO  07:01:25 Hosting environment: Development
+INFO  07:01:25 Hosting environment: Development
+INFO  07:01:25 Content root path: E:\MFPE_Project\PolicyAuthAPI
+INFO  07:01:25 Content root path: E:\MFPE_Project\PolicyAuthAPI
+INFO  07:31:36 Application started. Press Ctrl+C to shut down.
+INFO  07:31:36 Application started. Press Ctrl+C to shut down.
+INFO  07:31:36 Hosting environment: Development
+INFO  07:31:36 Hosting environment: Development
+INFO  07:31:36 Content root path: E:\MFPE_Project\PolicyAuthAPI
+INFO  07:31:36 Content root path: E:\MFPE_Project\PolicyAuthAPI
+INFO  10:34:51 Application started. Press Ctrl+C to shut down.
+INFO  10:34:51 Application started. Press Ctrl+C to shut down.
+INFO  10:34:51 Hosting environment: Development
+INFO  10:34:51 Hosting environment: Development
+INFO  10:34:51 Content root path: E:\MFPE_Project\PolicyAuthAPI
+INFO  10:34:51 Content root path: E:\MFPE_Project\PolicyAuthAPI
+INFO  10:35:14 Authentication initiated for Admin1
+INFO  10:35:14 Admin1
+INFO  10:35:15 Token Generation initiated
+INFO  03:58:17 Application started. Press Ctrl+C to shut down.
+INFO  03:58:18 Application started. Press Ctrl+C to shut down.
+INFO  03:58:18 Hosting environment: Development
+INFO  03:58:18 Hosting environment: Development
+INFO  03:58:18 Content root path: E:\MFPE_Project\PolicyAuthAPI
+INFO  03:58:18 Content root path: E:\MFPE_Project\PolicyAuthAPI
+INFO  04:45:42 Application started. Press Ctrl+C to shut down.
+INFO  04:45:42 Application started. Press Ctrl+C to shut down.
+INFO  04:45:42 Hosting environment: Development
+INFO  04:45:42 Hosting environment: Development
+INFO  04:45:42 Content root path: E:\MFPE_Project\PolicyAuthAPI
+INFO  04:45:42 Content root path: E:\MFPE_Project\PolicyAuthAPI
+INFO  04:45:49 Authentication initiated for Admin1
+INFO  04:45:49 Admin1
+INFO  04:45:51 Token Generation initiated
+INFO  04:55:52 Authentication initiated for Admin1
+INFO  04:55:52 Admin1
+INFO  04:55:52 Token Generation initiated
+INFO  04:58:09 Authentication initiated for Admin1
+INFO  04:58:09 Admin1
+INFO  04:58:09 Token Generation initiated
+INFO  05:02:02 Authentication initiated for Admin1
+INFO  05:02:02 Admin1
+INFO  05:02:02 Token Generation initiated
+INFO  05:03:57 Authentication initiated for Admin1
+INFO  05:03:57 Admin1
+INFO  05:03:57 Token Generation initiated
+INFO  05:10:52 Authentication initiated for Admin1
+INFO  05:10:52 Admin1
+INFO  05:10:52 Token Generation initiated
+INFO  05:24:16 Authentication initiated for Admin1
+INFO  05:24:16 Admin1
+INFO  05:24:16 Token Generation initiated
+INFO  05:29:32 Authentication initiated for Admin1
+INFO  05:29:32 Admin1
+INFO  05:29:32 Token Generation initiated
+INFO  05:57:40 Authentication initiated for Admin1
+INFO  05:57:40 Admin1
+INFO  05:57:40 Token Generation initiated
+INFO  07:17:54 Authentication initiated for Admin1
+INFO  07:17:54 Admin1
+INFO  07:17:54 Token Generation initiated
+INFO  07:22:08 Authentication initiated for Admin1
+INFO  07:22:08 Admin1
+INFO  07:22:08 Token Generation initiated
+INFO  07:26:07 Authentication initiated for Admin1
+INFO  07:26:07 Admin1
+INFO  07:26:07 Token Generation initiated
+INFO  07:31:29 Authentication initiated for Admin1
+INFO  07:31:29 Admin1
+INFO  07:31:29 Token Generation initiated
+INFO  07:34:32 Authentication initiated for Admin1
+INFO  07:34:32 Admin1
+INFO  07:34:32 Token Generation initiated
+INFO  07:39:42 Authentication initiated for Admin1
+INFO  07:39:42 Admin1
+INFO  07:39:42 Token Generation initiated
+INFO  07:44:38 Authentication initiated for Admin1
+INFO  07:44:38 Admin1
+INFO  07:44:38 Token Generation initiated
+INFO  07:47:00 Authentication initiated for Admin1
+INFO  07:47:00 Admin1
+INFO  07:47:00 Token Generation initiated
+INFO  07:52:06 Authentication initiated for Admin1
+INFO  07:52:06 Admin1
+INFO  07:52:06 Token Generation initiated
+INFO  08:08:34 Authentication initiated for Admin1
+INFO  08:08:34 Admin1
+INFO  08:08:34 Token Generation initiated
+INFO  12:15:09 Application started. Press Ctrl+C to shut down.
+INFO  12:15:09 Application started. Press Ctrl+C to shut down.
+INFO  12:15:09 Hosting environment: Development
+INFO  12:15:09 Hosting environment: Development
+INFO  12:15:09 Content root path: E:\MFPE_Project\PolicyAuthAPI
+INFO  12:15:09 Content root path: E:\MFPE_Project\PolicyAuthAPI
+INFO  12:18:55 Authentication initiated for Admin
+ERROR 12:18:55 Exception occured while authenticating user/generating token as Object reference not set to an instance of an object.
+ERROR 12:18:55 Login failed for Admin
+INFO  12:19:04 Authentication initiated for Admin1
+INFO  12:19:04 Admin1
+INFO  12:19:04 Token Generation initiated
+INFO  12:43:23 Application started. Press Ctrl+C to shut down.
+INFO  12:43:23 Application started. Press Ctrl+C to shut down.
+INFO  12:43:23 Hosting environment: Development
+INFO  12:43:23 Hosting environment: Development
+INFO  12:43:23 Content root path: E:\MFPE_Project\PolicyAuthAPI
+INFO  12:43:23 Content root path: E:\MFPE_Project\PolicyAuthAPI
+INFO  12:45:27 Authentication initiated for Admin1
+INFO  12:45:27 Admin1
+INFO  12:45:27 Token Generation initiated
+INFO  12:55:51 Authentication initiated for Admin1
+INFO  12:55:51 Admin1
+INFO  12:55:51 Token Generation initiated
+INFO  01:08:20 Authentication initiated for Admin1
+INFO  01:08:20 Admin1
+INFO  01:08:20 Token Generation initiated
+INFO  01:59:40 Application started. Press Ctrl+C to shut down.
+INFO  01:59:40 Application started. Press Ctrl+C to shut down.
+INFO  01:59:40 Hosting environment: Development
+INFO  01:59:40 Hosting environment: Development
+INFO  01:59:40 Content root path: E:\MFPE_Project\PolicyAuthAPI
+INFO  01:59:40 Content root path: E:\MFPE_Project\PolicyAuthAPI
+INFO  02:00:16 Authentication initiated for Admin1
+INFO  02:00:16 Admin1
+INFO  02:00:16 Token Generation initiated
+INFO  02:12:43 Authentication initiated for Admin1
+INFO  02:12:43 Admin1
+INFO  02:12:43 Token Generation initiated
+INFO  02:28:50 Authentication initiated for Admin1
+INFO  02:28:50 Admin1
+INFO  02:28:50 Token Generation initiated
+INFO  02:32:32 Authentication initiated for Admin1
+INFO  02:32:32 Admin1
+INFO  02:32:32 Token Generation initiated
+INFO  02:36:27 Authentication initiated for Admin1
+INFO  02:36:27 Admin1
+INFO  02:36:27 Token Generation initiated
+INFO  02:38:41 Authentication initiated for Admin1
+INFO  02:38:41 Admin1
+INFO  02:38:41 Token Generation initiated
+INFO  02:41:06 Authentication initiated for Admin1
+INFO  02:41:06 Admin1
+INFO  02:41:06 Token Generation initiated
+INFO  02:44:34 Authentication initiated for Admin1
+INFO  02:44:34 Admin1
+INFO  02:44:34 Token Generation initiated
+INFO  02:53:00 Authentication initiated for Admin1
+INFO  02:53:00 Admin1
+INFO  02:53:00 Token Generation initiated
+INFO  03:42:50 Application started. Press Ctrl+C to shut down.
+INFO  03:42:50 Application started. Press Ctrl+C to shut down.
+INFO  03:42:50 Hosting environment: Development
+INFO  03:42:50 Hosting environment: Development
+INFO  03:42:50 Content root path: E:\MFPE_Project\PolicyAuthAPI
+INFO  03:42:50 Content root path: E:\MFPE_Project\PolicyAuthAPI
+INFO  03:42:57 Authentication initiated for Admin1
+INFO  03:42:57 Admin1
+INFO  03:42:57 Token Generation initiated
+INFO  03:47:09 Authentication initiated for Admin1
+INFO  03:47:09 Admin1
+INFO  03:47:09 Token Generation initiated
+INFO  03:52:26 Authentication initiated for Admin1
+INFO  03:52:26 Admin1
+INFO  03:52:26 Token Generation initiated
+INFO  04:13:22 Authentication initiated for Admin1
+INFO  04:13:22 Admin1
+INFO  04:13:22 Token Generation initiated
+INFO  04:21:19 Authentication initiated for Admin1
+INFO  04:21:19 Admin1
+INFO  04:21:19 Token Generation initiated
+INFO  04:24:39 Authentication initiated for Admin1
+INFO  04:24:39 Admin1
+INFO  04:24:39 Token Generation initiated
+INFO  04:25:47 Authentication initiated for Admin1
+INFO  04:25:47 Admin1
+INFO  04:25:47 Token Generation initiated
+INFO  06:05:13 Application started. Press Ctrl+C to shut down.
+INFO  06:05:13 Application started. Press Ctrl+C to shut down.
+INFO  06:05:13 Hosting environment: Development
+INFO  06:05:13 Hosting environment: Development
+INFO  06:05:13 Content root path: E:\MFPE_Project\PolicyAuthAPI
+INFO  06:05:13 Content root path: E:\MFPE_Project\PolicyAuthAPI
+INFO  06:05:28 Authentication initiated for Admin1
+INFO  06:05:28 Admin1
+INFO  06:05:28 Token Generation initiated
+INFO  09:26:06 Application started. Press Ctrl+C to shut down.
+INFO  09:26:07 Application started. Press Ctrl+C to shut down.
+INFO  09:26:07 Hosting environment: Development
+INFO  09:26:07 Hosting environment: Development
+INFO  09:26:07 Content root path: E:\MFPE_Project\PolicyAuthAPI
+INFO  09:26:07 Content root path: E:\MFPE_Project\PolicyAuthAPI
+INFO  09:30:09 Authentication initiated for Admin1
+INFO  09:30:09 Admin1
+INFO  09:30:10 Token Generation initiated
+INFO  10:06:18 Authentication initiated for Admin1
+INFO  10:06:18 Admin1
+INFO  10:06:18 Token Generation initiated
+INFO  11:06:43 Authentication initiated for Admin1
+INFO  11:06:43 Admin1
+INFO  11:06:43 Token Generation initiated
+INFO  11:31:17 Authentication initiated for Admin1
+INFO  11:31:17 Admin1
+INFO  11:31:17 Token Generation initiated
+INFO  11:35:17 Authentication initiated for Admin1
+INFO  11:35:17 Admin1
+INFO  11:35:17 Token Generation initiated
+INFO  11:37:01 Authentication initiated for Admin1
+INFO  11:37:01 Admin1
+INFO  11:37:01 Token Generation initiated
+INFO  11:38:44 Authentication initiated for Admin1
+INFO  11:38:44 Admin1
+INFO  11:38:44 Token Generation initiated
+INFO  11:47:22 Authentication initiated for Admin1
+INFO  11:47:22 Admin1
+INFO  11:47:22 Token Generation initiated
+INFO  11:50:18 Authentication initiated for Admin1
+INFO  11:50:18 Admin1
+INFO  11:50:18 Token Generation initiated
+INFO  11:52:00 Authentication initiated for Admin1
+INFO  11:52:00 Admin1
+INFO  11:52:00 Token Generation initiated
+INFO  11:55:15 Authentication initiated for Admin1
+INFO  11:55:15 Admin1
+INFO  11:55:15 Token Generation initiated
+INFO  12:06:30 Application started. Press Ctrl+C to shut down.
+INFO  12:06:30 Application started. Press Ctrl+C to shut down.
+INFO  12:06:30 Hosting environment: Development
+INFO  12:06:30 Hosting environment: Development
+INFO  12:06:30 Content root path: E:\MFPE_Project\PolicyAuthAPI
+INFO  12:06:30 Content root path: E:\MFPE_Project\PolicyAuthAPI
+INFO  12:15:58 Authentication initiated for Admin1
+INFO  12:15:58 Admin1
+INFO  12:16:00 Token Generation initiated
+INFO  12:16:18 Authentication initiated for Admin1
+INFO  12:16:18 Admin1
+INFO  12:16:18 Token Generation initiated
+INFO  12:23:01 Authentication initiated for Admin1
+INFO  12:23:01 Admin1
+INFO  12:23:01 Token Generation initiated
+INFO  12:25:21 Authentication initiated for Admin1
+INFO  12:25:21 Admin1
+INFO  12:25:21 Token Generation initiated
+INFO  04:43:22 Application started. Press Ctrl+C to shut down.
+INFO  04:43:22 Application started. Press Ctrl+C to shut down.
+INFO  04:43:22 Hosting environment: Development
+INFO  04:43:22 Hosting environment: Development
+INFO  04:43:22 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  04:43:22 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  04:45:13 Authentication initiated for Admin1
+INFO  04:45:13 Admin1
+INFO  04:45:13 Token Generation initiated
+INFO  06:03:54 Application started. Press Ctrl+C to shut down.
+INFO  06:03:54 Application started. Press Ctrl+C to shut down.
+INFO  06:03:54 Hosting environment: Development
+INFO  06:03:54 Hosting environment: Development
+INFO  06:03:54 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  06:03:54 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  06:06:25 Authentication initiated for Admin1
+INFO  06:06:25 Admin1
+INFO  06:06:25 Token Generation initiated
+INFO  07:32:08 Authentication initiated for Admin1
+INFO  07:32:08 Admin1
+INFO  07:32:08 Token Generation initiated
+INFO  08:33:19 Application started. Press Ctrl+C to shut down.
+INFO  08:33:19 Application started. Press Ctrl+C to shut down.
+INFO  08:33:19 Hosting environment: Development
+INFO  08:33:19 Hosting environment: Development
+INFO  08:33:19 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  08:33:19 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  11:08:00 Application started. Press Ctrl+C to shut down.
+INFO  11:08:00 Application started. Press Ctrl+C to shut down.
+INFO  11:08:00 Hosting environment: Development
+INFO  11:08:00 Hosting environment: Development
+INFO  11:08:00 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  11:08:00 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  11:08:38 Authentication initiated for Admin
+INFO  11:09:33 Application started. Press Ctrl+C to shut down.
+INFO  11:09:33 Application started. Press Ctrl+C to shut down.
+INFO  11:09:33 Hosting environment: Development
+INFO  11:09:33 Hosting environment: Development
+INFO  11:09:33 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  11:09:33 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  11:09:49 Authentication initiated for Admin1
+INFO  11:09:49 Admin1
+INFO  11:09:49 Token Generation initiated
+INFO  11:10:02 Authentication initiated for string
+INFO  11:11:09 Application started. Press Ctrl+C to shut down.
+INFO  11:11:09 Application started. Press Ctrl+C to shut down.
+INFO  11:11:09 Hosting environment: Development
+INFO  11:11:09 Hosting environment: Development
+INFO  11:11:09 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  11:11:09 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  01:50:34 Authentication initiated for Admin1
+INFO  01:50:34 Admin1
+INFO  01:50:34 Token Generation initiated
+INFO  01:50:38 Authentication initiated for Admin1
+INFO  01:50:38 Admin1
+INFO  01:50:38 Token Generation initiated
+INFO  02:26:54 Application started. Press Ctrl+C to shut down.
+INFO  02:26:54 Application started. Press Ctrl+C to shut down.
+INFO  02:26:54 Hosting environment: Development
+INFO  02:26:54 Hosting environment: Development
+INFO  02:26:54 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  02:26:54 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+WARN  02:26:54 Failed to determine the https port for redirect.
+WARN  02:26:54 Failed to determine the https port for redirect.
+INFO  02:32:40 Application started. Press Ctrl+C to shut down.
+INFO  02:32:40 Application started. Press Ctrl+C to shut down.
+INFO  02:32:40 Hosting environment: Development
+INFO  02:32:40 Hosting environment: Development
+INFO  02:32:40 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  02:32:40 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+WARN  02:32:40 Failed to determine the https port for redirect.
+WARN  02:32:40 Failed to determine the https port for redirect.
+INFO  02:34:17 Authentication initiated for Admin1
+INFO  02:34:17 Admin1
+INFO  02:34:18 Token Generation initiated
+INFO  02:36:03 Authentication initiated for Admin1
+INFO  02:36:03 Admin1
+INFO  02:36:03 Token Generation initiated
+INFO  02:37:18 Authentication initiated for Admin1
+INFO  02:38:01 Application started. Press Ctrl+C to shut down.
+INFO  02:38:01 Application started. Press Ctrl+C to shut down.
+INFO  02:38:01 Hosting environment: Development
+INFO  02:38:01 Hosting environment: Development
+INFO  02:38:01 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  02:38:01 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+WARN  02:38:01 Failed to determine the https port for redirect.
+WARN  02:38:01 Failed to determine the https port for redirect.
+INFO  02:46:23 Authentication initiated for Admin1
+INFO  02:46:23 Admin1
+INFO  02:46:23 Token Generation initiated
+INFO  02:48:21 Authentication initiated for Admin1
+INFO  02:48:21 Admin1
+INFO  02:48:21 Token Generation initiated
+INFO  02:49:17 Authentication initiated for Admin1
+INFO  02:49:35 Application started. Press Ctrl+C to shut down.
+INFO  02:49:35 Application started. Press Ctrl+C to shut down.
+INFO  02:49:35 Hosting environment: Development
+INFO  02:49:35 Hosting environment: Development
+INFO  02:49:35 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  02:49:35 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+WARN  02:49:35 Failed to determine the https port for redirect.
+WARN  02:49:35 Failed to determine the https port for redirect.
+INFO  02:52:43 Authentication initiated for Admin1
+INFO  02:52:43 Admin1
+INFO  02:52:43 Token Generation initiated
+INFO  02:53:33 Authentication initiated for Admin1
+INFO  02:53:33 Admin1
+INFO  02:53:33 Token Generation initiated
+INFO  09:54:23 Application started. Press Ctrl+C to shut down.
+INFO  09:54:23 Application started. Press Ctrl+C to shut down.
+INFO  09:54:23 Hosting environment: Development
+INFO  09:54:23 Hosting environment: Development
+INFO  09:54:23 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  09:54:23 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+WARN  09:54:23 Failed to determine the https port for redirect.
+WARN  09:54:23 Failed to determine the https port for redirect.
+INFO  02:52:14 Application started. Press Ctrl+C to shut down.
+INFO  02:52:14 Application started. Press Ctrl+C to shut down.
+INFO  02:52:14 Hosting environment: Development
+INFO  02:52:14 Hosting environment: Development
+INFO  02:52:14 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  02:52:14 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+WARN  02:52:14 Failed to determine the https port for redirect.
+WARN  02:52:14 Failed to determine the https port for redirect.
+INFO  03:02:38 Authentication initiated for Admin1
+INFO  03:02:38 Admin1
+INFO  03:02:38 Token Generation initiated
+INFO  03:16:05 Application started. Press Ctrl+C to shut down.
+INFO  03:16:05 Application started. Press Ctrl+C to shut down.
+INFO  03:16:05 Hosting environment: Development
+INFO  03:16:05 Hosting environment: Development
+INFO  03:16:05 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  03:16:05 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  03:19:14 Authentication initiated for Admin1
+INFO  03:19:14 Admin1
+INFO  03:19:14 Token Generation initiated
+INFO  03:30:08 Authentication initiated for Admin1
+INFO  03:30:08 Admin1
+INFO  03:30:08 Token Generation initiated
+INFO  03:30:48 Authentication initiated for Admin1
+INFO  03:30:48 Admin1
+INFO  03:30:48 Token Generation initiated
+INFO  03:43:11 Authentication initiated for Abckassbck
+INFO  03:44:16 Application started. Press Ctrl+C to shut down.
+INFO  03:44:16 Application started. Press Ctrl+C to shut down.
+INFO  03:44:16 Hosting environment: Development
+INFO  03:44:16 Hosting environment: Development
+INFO  03:44:16 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  03:44:16 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  03:50:01 Authentication initiated for sdcnklsd
+INFO  03:50:19 Application started. Press Ctrl+C to shut down.
+INFO  03:50:19 Application started. Press Ctrl+C to shut down.
+INFO  03:50:19 Hosting environment: Development
+INFO  03:50:19 Hosting environment: Development
+INFO  03:50:19 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  03:50:19 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  03:56:32 Authentication initiated for Admin1
+INFO  03:56:32 Admin1
+INFO  03:56:32 Token Generation initiated
+INFO  03:56:33 Authentication initiated for Admin1
+INFO  03:56:33 Admin1
+INFO  03:56:33 Token Generation initiated
+INFO  03:56:34 Authentication initiated for Admin1
+INFO  03:56:34 Admin1
+INFO  03:56:34 Token Generation initiated
+INFO  03:56:34 Authentication initiated for Admin1
+INFO  03:56:34 Admin1
+INFO  03:56:34 Token Generation initiated
+INFO  03:56:35 Authentication initiated for Admin1
+INFO  03:56:35 Admin1
+INFO  03:56:35 Token Generation initiated
+INFO  04:08:14 Authentication initiated for Admin1
+INFO  04:08:14 Admin1
+INFO  04:08:14 Token Generation initiated
+INFO  04:09:46 Authentication initiated for Admin1
+INFO  04:09:57 Application started. Press Ctrl+C to shut down.
+INFO  04:09:57 Application started. Press Ctrl+C to shut down.
+INFO  04:09:57 Hosting environment: Development
+INFO  04:09:57 Hosting environment: Development
+INFO  04:09:57 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  04:09:57 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  04:09:57 Authentication initiated for Admin1
+INFO  04:10:22 Application started. Press Ctrl+C to shut down.
+INFO  04:10:22 Application started. Press Ctrl+C to shut down.
+INFO  04:10:22 Hosting environment: Development
+INFO  04:10:22 Hosting environment: Development
+INFO  04:10:22 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  04:10:22 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  04:10:34 Authentication initiated for Admin1
+INFO  04:10:34 Admin1
+INFO  04:10:34 Token Generation initiated
+INFO  04:29:10 Authentication initiated for Admin
+INFO  04:29:22 Application started. Press Ctrl+C to shut down.
+INFO  04:29:22 Application started. Press Ctrl+C to shut down.
+INFO  04:29:22 Hosting environment: Development
+INFO  04:29:22 Hosting environment: Development
+INFO  04:29:22 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  04:29:22 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  04:29:32 Authentication initiated for Admin1
+INFO  04:29:32 Admin1
+INFO  04:29:32 Token Generation initiated
+INFO  04:37:53 Authentication initiated for Admin1
+INFO  04:37:53 Admin1
+INFO  04:37:53 Token Generation initiated
+INFO  04:40:16 Authentication initiated for Admin1
+INFO  04:40:16 Admin1
+INFO  04:40:16 Token Generation initiated
+INFO  11:14:27 Application started. Press Ctrl+C to shut down.
+INFO  11:14:27 Application started. Press Ctrl+C to shut down.
+INFO  11:14:27 Hosting environment: Development
+INFO  11:14:27 Hosting environment: Development
+INFO  11:14:27 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  11:14:27 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  11:15:00 Authentication initiated for Admin1
+INFO  11:15:00 Admin1
+INFO  11:15:00 Token Generation initiated
+INFO  11:24:57 Authentication initiated for Admin1
+INFO  11:24:57 Admin1
+INFO  11:24:57 Token Generation initiated
+INFO  03:20:41 Application started. Press Ctrl+C to shut down.
+INFO  03:20:41 Application started. Press Ctrl+C to shut down.
+INFO  03:20:41 Hosting environment: Development
+INFO  03:20:41 Hosting environment: Development
+INFO  03:20:41 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  03:20:41 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  03:20:42 Authentication initiated for Admin1
+INFO  03:20:42 Admin1
+INFO  03:20:42 Token Generation initiated
+INFO  03:22:37 Authentication initiated for Admin1
+INFO  03:22:37 Admin1
+INFO  03:22:37 Token Generation initiated
+INFO  03:31:52 Authentication initiated for Admin1
+INFO  03:31:52 Admin1
+INFO  03:31:52 Token Generation initiated
+INFO  03:36:25 Authentication initiated for Admin1
+INFO  03:36:25 Admin1
+INFO  03:36:25 Token Generation initiated
+INFO  03:50:01 Application started. Press Ctrl+C to shut down.
+INFO  03:50:01 Application started. Press Ctrl+C to shut down.
+INFO  03:50:01 Hosting environment: Development
+INFO  03:50:01 Hosting environment: Development
+INFO  03:50:01 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  03:50:01 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+ERROR 03:50:18 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint Policy.Auth.API.Controllers.AuthController.Login (Policy.Auth.API) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseCors() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 03:50:18 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint Policy.Auth.API.Controllers.AuthController.Login (Policy.Auth.API) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseCors() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 04:27:54 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint Policy.Auth.API.Controllers.AuthController.Login (Policy.Auth.API) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseCors() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 04:27:54 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint Policy.Auth.API.Controllers.AuthController.Login (Policy.Auth.API) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseCors() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  04:48:17 Application started. Press Ctrl+C to shut down.
+INFO  04:48:17 Application started. Press Ctrl+C to shut down.
+INFO  04:48:17 Hosting environment: Development
+INFO  04:48:17 Hosting environment: Development
+INFO  04:48:17 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  04:48:17 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  04:49:01 Authentication initiated for Admin1
+INFO  04:49:01 Admin1
+INFO  04:49:01 Token Generation initiated
+INFO  04:50:53 Authentication initiated for Admin1
+INFO  04:50:53 Admin1
+INFO  04:50:53 Token Generation initiated
+INFO  04:52:21 Authentication initiated for Admin1
+INFO  04:52:21 Admin1
+INFO  04:52:21 Token Generation initiated
+INFO  07:06:37 Application started. Press Ctrl+C to shut down.
+INFO  07:06:37 Application started. Press Ctrl+C to shut down.
+INFO  07:06:37 Hosting environment: Development
+INFO  07:06:37 Hosting environment: Development
+INFO  07:06:37 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  07:06:37 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+ERROR 07:06:42 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint Policy.Auth.API.Controllers.AuthController.Login (Policy.Auth.API) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseCors() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:06:42 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint Policy.Auth.API.Controllers.AuthController.Login (Policy.Auth.API) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseCors() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:06:52 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint Policy.Auth.API.Controllers.AuthController.Login (Policy.Auth.API) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseCors() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:06:52 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint Policy.Auth.API.Controllers.AuthController.Login (Policy.Auth.API) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseCors() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:07:00 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint Policy.Auth.API.Controllers.AuthController.Login (Policy.Auth.API) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseCors() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:07:00 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint Policy.Auth.API.Controllers.AuthController.Login (Policy.Auth.API) contains CORS metadata, but a middleware was not found that supports CORS.
+Configure your application startup by adding app.UseCors() inside the call to Configure(..) in the application startup code. The call to app.UseCors() must appear between app.UseRouting() and app.UseEndpoints(...).
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingCorsMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  07:07:48 Application started. Press Ctrl+C to shut down.
+INFO  07:07:48 Application started. Press Ctrl+C to shut down.
+INFO  07:07:48 Hosting environment: Development
+INFO  07:07:48 Hosting environment: Development
+INFO  07:07:48 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  07:07:48 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  07:07:48 Authentication initiated for Admin1
+INFO  07:07:48 Admin1
+INFO  07:07:48 Token Generation initiated
+INFO  09:11:50 Application started. Press Ctrl+C to shut down.
+INFO  09:11:50 Application started. Press Ctrl+C to shut down.
+INFO  09:11:50 Hosting environment: Development
+INFO  09:11:50 Hosting environment: Development
+INFO  09:11:50 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  09:11:50 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  09:11:55 Authentication initiated for Admin1
+INFO  09:11:55 Admin1
+INFO  09:11:55 Token Generation initiated
+INFO  09:15:28 Authentication initiated for Admin1
+INFO  09:15:28 Admin1
+INFO  09:15:28 Token Generation initiated
+INFO  03:18:04 Application started. Press Ctrl+C to shut down.
+INFO  03:18:04 Application started. Press Ctrl+C to shut down.
+INFO  03:18:04 Hosting environment: Development
+INFO  03:18:04 Hosting environment: Development
+INFO  03:18:04 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  03:18:04 Content root path: C:\Users\saich\Desktop\Share\Project\PolicyAuthAPI\PolicyAuthAPI
+INFO  11:17:01 Application started. Press Ctrl+C to shut down.
+INFO  11:17:01 Application started. Press Ctrl+C to shut down.
+INFO  11:17:01 Hosting environment: Development
+INFO  11:17:01 Hosting environment: Development
+INFO  11:17:01 Content root path: C:\Users\saich\Desktop\Share\Project\MFPE_02_Microservices\PolicyAuthAPI\PolicyAuthAPI
+INFO  11:17:01 Content root path: C:\Users\saich\Desktop\Share\Project\MFPE_02_Microservices\PolicyAuthAPI\PolicyAuthAPI
+INFO  11:23:20 Application started. Press Ctrl+C to shut down.
+INFO  11:23:20 Application started. Press Ctrl+C to shut down.
+INFO  11:23:20 Hosting environment: Development
+INFO  11:23:20 Hosting environment: Development
+INFO  11:23:20 Content root path: C:\Users\saich\Desktop\Share\Project\MFPE_02_Microservices\PolicyAuthAPI\PolicyAuthAPI
+INFO  11:23:20 Content root path: C:\Users\saich\Desktop\Share\Project\MFPE_02_Microservices\PolicyAuthAPI\PolicyAuthAPI
+INFO  11:23:29 Authentication initiated for Sai
+INFO  11:23:29 Sai
+INFO  11:23:29 Token Generation initiated
+INFO  11:40:50 Application started. Press Ctrl+C to shut down.
+INFO  11:40:50 Application started. Press Ctrl+C to shut down.
+INFO  11:40:50 Hosting environment: Development
+INFO  11:40:50 Hosting environment: Development
+INFO  11:40:50 Content root path: C:\Users\saich\Desktop\Share\Project\MFPE_02_Microservices\PolicyAuthAPI\PolicyAuthAPI
+INFO  11:40:50 Content root path: C:\Users\saich\Desktop\Share\Project\MFPE_02_Microservices\PolicyAuthAPI\PolicyAuthAPI
+INFO  11:41:41 Authentication initiated for assda
+INFO  11:41:41 assda
+ERROR 11:41:41 Login failed for assda
+INFO  11:44:05 Authentication initiated for SaiChandra
+INFO  11:44:05 SaiChandra
+INFO  11:44:05 Token Generation initiated
+INFO  12:10:52 Authentication initiated for SaiChandra
+INFO  12:10:52 SaiChandra
+ERROR 12:10:52 Login failed for SaiChandra
+INFO  12:11:32 Authentication initiated for SaiChandra
+INFO  12:11:32 SaiChandra
+INFO  12:11:32 Token Generation initiated
+INFO  12:49:47 Application started. Press Ctrl+C to shut down.
+INFO  12:49:47 Application started. Press Ctrl+C to shut down.
+INFO  12:49:48 Hosting environment: Development
+INFO  12:49:48 Hosting environment: Development
+INFO  12:49:48 Content root path: C:\Users\saich\Desktop\Share\Project\MFPE_02_Microservices\PolicyAuthAPI\PolicyAuthAPI
+INFO  12:49:48 Content root path: C:\Users\saich\Desktop\Share\Project\MFPE_02_Microservices\PolicyAuthAPI\PolicyAuthAPI
+INFO  12:49:51 Authentication initiated for SaiChandra
+INFO  12:49:51 SaiChandra
+INFO  12:49:51 Token Generation initiated
+INFO  08:44:22 Application started. Press Ctrl+C to shut down.
+INFO  08:44:22 Application started. Press Ctrl+C to shut down.
+INFO  08:44:22 Hosting environment: Development
+INFO  08:44:22 Hosting environment: Development
+INFO  08:44:22 Content root path: C:\Users\saich\Desktop\Share\Project\MFPE_02_Microservices\PolicyAuthAPI\PolicyAuthAPI
+INFO  08:44:22 Content root path: C:\Users\saich\Desktop\Share\Project\MFPE_02_Microservices\PolicyAuthAPI\PolicyAuthAPI
+INFO  08:44:52 Authentication initiated for SaiChandra
+INFO  08:44:52 SaiChandra
+ERROR 08:44:52 Login failed for SaiChandra
+INFO  08:45:12 Authentication initiated for SaiChandra
+INFO  08:45:12 SaiChandra
+INFO  08:45:12 Token Generation initiated
+INFO  07:06:45 Application started. Press Ctrl+C to shut down.
+INFO  07:06:45 Application started. Press Ctrl+C to shut down.
+INFO  07:06:45 Hosting environment: Development
+INFO  07:06:45 Hosting environment: Development
+INFO  07:06:45 Content root path: C:\Users\saich\Desktop\Share\Project\MFPE_02_Microservices\PolicyAuthAPI\PolicyAuthAPI
+INFO  07:06:45 Content root path: C:\Users\saich\Desktop\Share\Project\MFPE_02_Microservices\PolicyAuthAPI\PolicyAuthAPI
+INFO  07:09:57 Authentication initiated for SaiChandra
+INFO  07:09:57 SaiChandra
+INFO  07:09:57 Token Generation initiated
+INFO  07:50:07 Application started. Press Ctrl+C to shut down.
+INFO  07:50:07 Application started. Press Ctrl+C to shut down.
+INFO  07:50:07 Hosting environment: Development
+INFO  07:50:07 Hosting environment: Development
+INFO  07:50:07 Content root path: C:\Users\saich\Desktop\Share\Project\MFPE_02_Microservices\PolicyAuthAPI\PolicyAuthAPI
+INFO  07:50:07 Content root path: C:\Users\saich\Desktop\Share\Project\MFPE_02_Microservices\PolicyAuthAPI\PolicyAuthAPI
+INFO  07:50:39 Authentication initiated for SaiChandra
+INFO  07:50:39 SaiChandra
+INFO  07:50:39 Token Generation initiated
+INFO  08:08:40 Authentication initiated for SaiChandra
+INFO  08:08:40 SaiChandra
+INFO  08:08:40 Token Generation initiated
+INFO  08:15:34 Authentication initiated for AslamDegala
+INFO  08:15:34 AslamDegala
+INFO  08:15:34 Token Generation initiated
+INFO  08:22:39 Application started. Press Ctrl+C to shut down.
+INFO  08:22:39 Application started. Press Ctrl+C to shut down.
+INFO  08:22:39 Hosting environment: Development
+INFO  08:22:39 Hosting environment: Development
+INFO  08:22:39 Content root path: C:\Users\saich\Desktop\Share\Project\MFPE_02_Microservices\PolicyAuthAPI\PolicyAuthAPI
+INFO  08:22:39 Content root path: C:\Users\saich\Desktop\Share\Project\MFPE_02_Microservices\PolicyAuthAPI\PolicyAuthAPI
+INFO  08:23:18 Authentication initiated for SaiChandra
+INFO  08:23:18 SaiChandra
+INFO  08:23:18 Token Generation initiated

@@ -1,0 +1,56 @@
+INFO  12/18/2021 11:17:35 AM => Initializing Program
+INFO  12/18/2021 11:17:36 AM => Initialized In-Memory DB
+INFO  12/18/2021 11:17:36 AM => Data Seding for In-Memory DB Started
+INFO  12/18/2021 11:17:37 AM => Data Seding for In-Memory DB Completed
+INFO  12/18/2021 11:23:42 AM => Received Request for Quote
+INFO  12/18/2021 11:23:42 AM => Request Quotes for Property Type=Building, PropertyValue=9, BusinessValue=5
+INFO  12/18/2021 11:23:42 AM => Received Request for Quote
+INFO  12/18/2021 11:23:42 AM => Request Quotes for Property Type=Building, PropertyValue=9, BusinessValue=5
+INFO  12/18/2021 11:36:48 AM => Received Request for Quote
+INFO  12/18/2021 11:36:48 AM => Request Quotes for Property Type=Building, PropertyValue=9, BusinessValue=5
+INFO  12/18/2021 11:41:04 AM => Received Request for Quote
+INFO  12/18/2021 11:41:04 AM => Request Quotes for Property Type=Building, PropertyValue=9, BusinessValue=5
+INFO  12/18/2021 11:41:10 AM => Received Request for Quote
+INFO  12/18/2021 11:41:10 AM => Request Quotes for Property Type=Building, PropertyValue=9, BusinessValue=6
+INFO  12/18/2021 11:44:11 AM => Received Request for Quote
+INFO  12/18/2021 11:44:11 AM => Request Quotes for Property Type=Building, PropertyValue=9, BusinessValue=6
+INFO  12/18/2021 12:17:27 PM => Received Request for Quote
+INFO  12/18/2021 12:17:27 PM => Request Quotes for Property Type=Building, PropertyValue=9, BusinessValue=10
+INFO  12/18/2021 12:58:34 PM => Initializing Program
+INFO  12/18/2021 12:58:34 PM => Initialized In-Memory DB
+INFO  12/18/2021 12:58:35 PM => Data Seding for In-Memory DB Started
+INFO  12/18/2021 12:58:35 PM => Data Seding for In-Memory DB Completed
+INFO  12/18/2021 01:18:51 PM => Received Request for Quote
+INFO  12/18/2021 01:18:51 PM => Request Quotes for Property Type=Building, PropertyValue=9, BusinessValue=5
+INFO  12/18/2021 01:22:49 PM => Received Request for Quote
+INFO  12/18/2021 01:22:49 PM => Request Quotes for Property Type=Building, PropertyValue=9, BusinessValue=5
+INFO  12/18/2021 01:23:33 PM => Received Request for Quote
+INFO  12/18/2021 01:23:33 PM => Request Quotes for Property Type=Building, PropertyValue=9, BusinessValue=5
+INFO  12/18/2021 01:24:08 PM => Received Request for Quote
+INFO  12/18/2021 01:24:08 PM => Request Quotes for Property Type=Building, PropertyValue=9, BusinessValue=6
+INFO  12/19/2021 07:06:44 PM => Initializing Program
+INFO  12/19/2021 07:06:44 PM => Initialized In-Memory DB
+INFO  12/19/2021 07:06:45 PM => Data Seding for In-Memory DB Started
+INFO  12/19/2021 07:06:46 PM => Data Seding for In-Memory DB Completed
+INFO  12/19/2021 07:38:40 PM => Received Request for Quote
+INFO  12/19/2021 07:38:40 PM => Request Quotes for Property Type=Building, PropertyValue=9, BusinessValue=5
+INFO  12/19/2021 07:38:47 PM => Received Request for Quote
+INFO  12/19/2021 07:38:47 PM => Request Quotes for Property Type=Building, PropertyValue=9, BusinessValue=6
+INFO  12/19/2021 07:50:27 PM => Initializing Program
+INFO  12/19/2021 07:50:27 PM => Initialized In-Memory DB
+INFO  12/19/2021 07:50:28 PM => Data Seding for In-Memory DB Started
+INFO  12/19/2021 07:50:28 PM => Data Seding for In-Memory DB Completed
+INFO  12/19/2021 07:50:58 PM => Received Request for Quote
+INFO  12/19/2021 07:50:58 PM => Request Quotes for Property Type=Building, PropertyValue=9, BusinessValue=6
+INFO  12/19/2021 07:52:28 PM => Received Request for Quote
+INFO  12/19/2021 07:52:28 PM => Request Quotes for Property Type=Building, PropertyValue=9, BusinessValue=3
+INFO  12/19/2021 08:10:01 PM => Received Request for Quote
+INFO  12/19/2021 08:10:01 PM => Request Quotes for Property Type=Building, PropertyValue=9, BusinessValue=5
+INFO  12/19/2021 08:22:45 PM => Initializing Program
+INFO  12/19/2021 08:22:45 PM => Initialized SQL DB
+INFO  12/19/2021 08:22:46 PM => Data Seding for In-Memory DB Started
+INFO  12/19/2021 08:22:46 PM => Data Seding for In-Memory DB Completed
+INFO  12/19/2021 08:27:37 PM => Initializing Program
+INFO  12/19/2021 08:27:37 PM => Initialized In-Memory DB
+INFO  12/19/2021 08:27:37 PM => Data Seding for In-Memory DB Started
+INFO  12/19/2021 08:27:38 PM => Data Seding for In-Memory DB Completed
