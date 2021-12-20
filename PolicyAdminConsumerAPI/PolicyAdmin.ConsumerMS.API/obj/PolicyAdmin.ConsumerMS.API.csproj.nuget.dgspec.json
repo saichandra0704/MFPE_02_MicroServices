@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saich\\Desktop\\Share\\Project\\MFPE_02_Microservices\\PolicyAdminConsumerAPI\\PolicyAdmin.ConsumerMS.API\\PolicyAdmin.ConsumerMS.API.csproj": {}
+    "C:\\Users\\saich\\Desktop\\Share\\Project\\Repo\\MicroServices\\PolicyAdminConsumerAPI\\PolicyAdmin.ConsumerMS.API\\PolicyAdmin.ConsumerMS.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saich\\Desktop\\Share\\Project\\MFPE_02_Microservices\\PolicyAdminConsumerAPI\\PolicyAdmin.ConsumerMS.API\\PolicyAdmin.ConsumerMS.API.csproj": {
+    "C:\\Users\\saich\\Desktop\\Share\\Project\\Repo\\MicroServices\\PolicyAdminConsumerAPI\\PolicyAdmin.ConsumerMS.API\\PolicyAdmin.ConsumerMS.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saich\\Desktop\\Share\\Project\\MFPE_02_Microservices\\PolicyAdminConsumerAPI\\PolicyAdmin.ConsumerMS.API\\PolicyAdmin.ConsumerMS.API.csproj",
+        "projectUniqueName": "C:\\Users\\saich\\Desktop\\Share\\Project\\Repo\\MicroServices\\PolicyAdminConsumerAPI\\PolicyAdmin.ConsumerMS.API\\PolicyAdmin.ConsumerMS.API.csproj",
         "projectName": "PolicyAdmin.ConsumerMS.API",
-        "projectPath": "C:\\Users\\saich\\Desktop\\Share\\Project\\MFPE_02_Microservices\\PolicyAdminConsumerAPI\\PolicyAdmin.ConsumerMS.API\\PolicyAdmin.ConsumerMS.API.csproj",
+        "projectPath": "C:\\Users\\saich\\Desktop\\Share\\Project\\Repo\\MicroServices\\PolicyAdminConsumerAPI\\PolicyAdmin.ConsumerMS.API\\PolicyAdmin.ConsumerMS.API.csproj",
         "packagesPath": "C:\\Users\\saich\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saich\\Desktop\\Share\\Project\\MFPE_02_Microservices\\PolicyAdminConsumerAPI\\PolicyAdmin.ConsumerMS.API\\obj\\",
+        "outputPath": "C:\\Users\\saich\\Desktop\\Share\\Project\\Repo\\MicroServices\\PolicyAdminConsumerAPI\\PolicyAdmin.ConsumerMS.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saich\\AppData\\Roaming\\NuGet\\NuGet.Config",

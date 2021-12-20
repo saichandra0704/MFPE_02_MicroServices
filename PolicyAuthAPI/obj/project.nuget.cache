@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "viSoia15SNvvNwGWyZhkMQm6stCoB3XidOeCYUP1lh3JA1KLFdOSwMbslwS3RXhT/xvviErr3FzibN9HnoXwyg==",
+  "dgSpecHash": "3/rsI1SQHlCgWppOUp5HNaJ8ukjOM778+xNM70b3elR5Zper0lafiZPr+V2WNVnnkxOvkVnsXuDmsPOVT/zXYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\saich\\Desktop\\Share\\Project\\MFPE_02_Microservices\\PolicyAuthAPI\\PolicyAuthAPI\\Policy.Auth.API.csproj",
+  "projectFilePath": "C:\\Users\\saich\\Desktop\\Share\\Project\\Repo\\MicroServices\\PolicyAuthAPI\\Policy.Auth.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saich\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
     "C:\\Users\\saich\\.nuget\\packages\\microsoft.aspnet.cors\\5.2.7\\microsoft.aspnet.cors.5.2.7.nupkg.sha512",

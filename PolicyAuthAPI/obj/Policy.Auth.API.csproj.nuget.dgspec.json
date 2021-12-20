@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saich\\Desktop\\Share\\Project\\MFPE_02_Microservices\\PolicyAuthAPI\\PolicyAuthAPI\\Policy.Auth.API.csproj": {}
+    "C:\\Users\\saich\\Desktop\\Share\\Project\\Repo\\MicroServices\\PolicyAuthAPI\\Policy.Auth.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saich\\Desktop\\Share\\Project\\MFPE_02_Microservices\\PolicyAuthAPI\\PolicyAuthAPI\\Policy.Auth.API.csproj": {
+    "C:\\Users\\saich\\Desktop\\Share\\Project\\Repo\\MicroServices\\PolicyAuthAPI\\Policy.Auth.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saich\\Desktop\\Share\\Project\\MFPE_02_Microservices\\PolicyAuthAPI\\PolicyAuthAPI\\Policy.Auth.API.csproj",
+        "projectUniqueName": "C:\\Users\\saich\\Desktop\\Share\\Project\\Repo\\MicroServices\\PolicyAuthAPI\\Policy.Auth.API.csproj",
         "projectName": "Policy.Auth.API",
-        "projectPath": "C:\\Users\\saich\\Desktop\\Share\\Project\\MFPE_02_Microservices\\PolicyAuthAPI\\PolicyAuthAPI\\Policy.Auth.API.csproj",
+        "projectPath": "C:\\Users\\saich\\Desktop\\Share\\Project\\Repo\\MicroServices\\PolicyAuthAPI\\Policy.Auth.API.csproj",
         "packagesPath": "C:\\Users\\saich\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saich\\Desktop\\Share\\Project\\MFPE_02_Microservices\\PolicyAuthAPI\\PolicyAuthAPI\\obj\\",
+        "outputPath": "C:\\Users\\saich\\Desktop\\Share\\Project\\Repo\\MicroServices\\PolicyAuthAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saich\\AppData\\Roaming\\NuGet\\NuGet.Config",

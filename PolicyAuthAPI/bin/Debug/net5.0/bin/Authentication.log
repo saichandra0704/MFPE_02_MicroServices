@@ -867,3 +867,12 @@ INFO  08:22:39 Content root path: C:\Users\saich\Desktop\Share\Project\MFPE_02_M
 INFO  08:23:18 Authentication initiated for SaiChandra
 INFO  08:23:18 SaiChandra
 INFO  08:23:18 Token Generation initiated
+INFO  08:59:54 Application started. Press Ctrl+C to shut down.
+INFO  08:59:54 Application started. Press Ctrl+C to shut down.
+INFO  08:59:54 Hosting environment: Development
+INFO  08:59:54 Hosting environment: Development
+INFO  08:59:54 Content root path: C:\Users\saich\Desktop\Share\Project\Repo\MicroServices\PolicyAuthAPI
+INFO  08:59:54 Content root path: C:\Users\saich\Desktop\Share\Project\Repo\MicroServices\PolicyAuthAPI
+INFO  08:59:58 Authentication initiated for SaiChandra
+INFO  08:59:58 SaiChandra
+INFO  08:59:59 Token Generation initiated
